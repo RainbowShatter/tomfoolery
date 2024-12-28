@@ -1,8 +1,8 @@
-# cSploit is now considered EOL and is not being updated by the developers. Current version might not be functional on newer Android versions. We appreciate everyone who contributed to cSploit over the years. 
+# This project is based on cSploit, more as an attempt to revive the project, with a better, more powerful interface and extra features that are available on the Metasploit Framework
 
 
 
-# cSploit: Android network pentesting suite
+# Tomfoolery: Android network pentesting suite for rootless devices 
 
 <img src="http://i.imgur.com/cFll5P9.jpg" width="250" />
 
@@ -45,7 +45,7 @@ Also see the [wiki](https://github.com/cSploit/android/wiki) for instructions on
 
 ## Requirements
 
-* A **ROOTED** Android version 2.3 (Gingerbread) or a newer version
+* An Android version 2.3 (Gingerbread) or a newer version **with ADB**
 * The Android OS must have a [BusyBox](http://www.busybox.net/about.html) **full installation** with **every** utility installed (not the partial installation).  If you do not have busybox already, you can get it [here](https://play.google.com/store/apps/details?id=stericson.busybox) or [here](https://play.google.com/store/apps/details?id=com.jrummy.busybox.installer) (note cSploit does not endorse any busybox installer, these are just two we found).
 * You must install SuperSU (it will work __only__ if you have it)
 
